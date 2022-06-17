@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: mmistakes/minimal-mistakes
 lsi: false
 safe: true
 source: /
